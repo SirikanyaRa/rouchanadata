@@ -1185,7 +1185,63 @@ exports.seed = function(knex) {
         "addStt": "หมู่5 - ",
         "addSte": "mu",
         "hnumber": "74-75"
+    },
+     {
+        "id": "424921335d4a33f964f5b9a000df2e5f",
+        "nameR": "บจก.สุวรรณภูเล",
+        "nameT": "สุวรรณภูเล",
+        "nameE": "Suwanphule",
+        "cateT": "อาหารของหวานเครื่องดื่ม",
+        "cateE": "Restaurant",
+        "phone": "0935838332",
+        "phonef": "0935838332",
+        "lng": "98.36879363953813",
+        "lat": "7.90341731814789",
+        "hours": "",
+        "urlW": null,
+        "urlF": null,
+        "add1": "104 หมู่5 - รัษฎา เมืองภูเก็ต ภูเก็ต 83000",
+        "add1E": "104 mu 5-ratsada mueangphuket phuket 83000",
+        "postcode": "83000",
+        "admin2": "ภูเก็ต",
+        "admin2E": "phuket",
+        "admin3": "เมืองภูเก็ต",
+        "admin3E": "mueangphuket",
+        "admin4": "รัษฎา",
+        "admin4E": "5-ratsada",
+        "addStt": "หมู่5 - ",
+        "addSte": "mu",
+        "hnumber": "104"
+    },
+    {
+        "id": "d074e6f0d788fcc8ab2947bfc452e807",
+        "nameR": "ร้านห่อหมกกะทู้",
+        "nameT": "ห่อหมกกะทู้",
+        "nameE": "Homokkathu",
+        "cateT": "อาหารทั่วไปอาหารตามสั่งอาหารจานเดียว",
+        "cateE": "Restaurant",
+        "phone": "0994434190",
+        "phonef": "0994434190",
+        "lng": "98.349712",
+        "lat": "7.907095",
+        "hours": "",
+        "urlW": null,
+        "urlF": null,
+        "add1": "Aug-97 หมุ่7 กะทู้ กะทู้ ภูเก็ต 83120",
+        "add1E": "Aug-97 7 kathu kathu phuket 83120",
+        "postcode": "83120",
+        "admin2": "ภูเก็ต",
+        "admin2E": "phuket",
+        "admin3": "กะทู้",
+        "admin3E": "kathu",
+        "admin4": "กะทู้",
+        "admin4E": "kathu",
+        "addStt": "หมุ่7  ",
+        "addSte": "7",
+        "hnumber": "Aug-97"
     }
+
+
       ]);
     });
 };
